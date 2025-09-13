@@ -1,8 +1,5 @@
 git-push-test-1
 
 this is a test file created to test git push/pull.
-<<<<<<< HEAD
 
 ## Add new content to test merge with master.
-=======
->>>>>>> f3baf95ef0a9830532e578f72b353a0c1660a75f
